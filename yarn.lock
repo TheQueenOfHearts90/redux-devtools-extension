@@ -3517,8 +3517,8 @@ gulp-mocha@^3.0.1:
     through "^2.3.4"
 
 gulp-pug@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/gulp-pug/-/gulp-pug-3.2.0.tgz#0d890ffab15410ed0c909821ebf76c4c3270ada6"
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/gulp-pug/-/gulp-pug-3.3.0.tgz#46982c1439c094c360542ed8ba5c882d3bb711cf"
   dependencies:
     gulp-util "^3.0.2"
     object-assign "^4.1.0"
